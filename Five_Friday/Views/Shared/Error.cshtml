@@ -1,0 +1,75 @@
+﻿@model System.Web.Mvc.HandleErrorInfo
+@{
+    Layout = null;
+}
+
+
+
+<style>
+    #image_logo {
+        height: 200px;
+        border-width: 0px;
+        max-width: 100%;
+    }
+
+    .logo {
+        padding: 20px;
+        text-align: center;
+    }
+</style>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Error</title>
+    <link href="~/Content/Shared/bootstrap.css" rel="stylesheet" />
+</head>
+<body style="background-color: #ecf0f5;">
+
+    <div id="pan-1" style="padding-top :100px ;color: #00a65a; text-align:center">
+
+        <div class="logo">
+            <a href="#" style="text-decoration: none;">
+                <img style="max-height:150px" src="~/Content/Images/err.png" />
+            </a>
+        </div>
+        <hr style="border-top: 1px solid #8cc63e" />
+        <h3>Sorry! An error occurred while processing your request.</h3>
+        <h4>Please click <a href="/">here</a> to go back </h4>
+        <hr style="border-top: 1px solid #8cc63e" />
+
+        <a id="btn-more" style="position: fixed; bottom: 1px; " onclick="myFunction()">...</a>
+    </div>
+
+
+    <div id="pan-2" class="hidden ">
+
+        @if (Model != null)
+        {
+            <div class="container" style="padding-top:100px">
+                <p>
+                    <b>Exception:</b> @Model.Exception.Message<br />
+                    <b>Type:</b>@Model.Exception.GetType()<br />
+                    <b>Controller:</b> @Model.ControllerName<br />
+                    <b>Action:</b> @Model.ActionName<br />
+
+                </p>
+                <div style="overflow: scroll">
+                    <pre>
+                        @Model.Exception.StackTrace
+                </pre>
+                </div>
+            </div>
+        }
+    </div>
+
+</body>
+</html>
+
+<script>
+    function myFunction() {
+        document.getElementById("pan-2").className = "";
+        document.getElementById("pan-1").className = "hidden";
+    }
+</script>

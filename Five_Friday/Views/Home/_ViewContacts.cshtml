@@ -1,0 +1,53 @@
+﻿
+@using PagedList.Mvc;
+@using PagedList;
+@model List<Five_Friday.Models.CustomerContact>
+@{
+    Layout = null;
+}
+@if (Model.Count == 0)
+{
+    <div class="text-muted text-center">
+        <h4>No results to display ...</h4>
+    </div>
+}
+else
+{
+    <div class="text-muted text-right" style="margin-bottom:15px">
+        <button class="btn btn-default btn-sm" id="btnBack">
+            <i class="fa fa-eye"></i> Back
+        </button>
+    </div>
+    <div class="table-responsive">
+        <table id="example2" class="table table-bordered table-hover table-striped" role="grid" aria-describedby="example2_info">
+            <thead>
+                <tr role="row">
+                    <th class="sorting_asc">Name</th>
+                    <th class="sorting">email</th>
+                    <th class="sorting">Contact_Number</th>
+                    <th class="sorting" style="width:20%;"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    foreach (var customer in Model)
+                    {
+                        <tr role="row">
+                            <td>@customer.Name</td>
+                            <td>@customer.email</td>
+                            <td>@customer.Contact_Number</td>
+                            <td>
+                            </td>
+                        </tr>
+                    }
+                }
+
+            </tbody>
+        </table>
+    </div>
+
+   
+                    }
+
+
+

@@ -1,0 +1,140 @@
+﻿
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section class="content-header">
+    <h1>
+        Home
+        <small></small>
+    </h1>
+    <ol class="breadcrumb">
+        <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
+    </ol>
+</section>
+<!-- Main content -->
+
+
+<div class="col-lg-12" style="margin-top:15px">
+
+    <div class="form-inline">
+
+
+        <input type="text" class="form-control " autocomplete="off" name="CustomerName" placeholder="Search Customer..." maxlength="20">
+        <a class="btn btn-info" id="btnAddProduct"><i class="fa fa-plus"></i> Add Customer </a>
+
+        <nav class="pull-right hidden-xs-only">
+            <ul class="pagination pagination-sm " style="margin: 0">
+                <li class="active"><a class="btn-page-size " data-val="15">15</a></li>
+                <li><a class="btn-page-size " data-val="20">20</a></li>
+                <li><a class="btn-page-size" data-val="50">50</a></li>
+            </ul>
+        </nav>
+
+    </div>
+
+</div>
+
+
+<div class="col-lg-12">
+
+    <div class="box box-solid" style="margin-top:15px">
+
+        <div class="box-body " id="div-res-content">
+
+            @Html.Action("_index", "Home")
+        </div>
+        <div class="box-body " id="div-res">
+
+        </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+
+<div class="modal fade" tabindex="-1" role="dialog" id="AddCustomer">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title"></h4>
+            </div>
+            <div class="modal-body">
+                <form id="AddCustomerForm">
+                    <div class="row">
+                        <div class="form-group col-lg-6">
+                            <label class="margin-bottom-none">Customer Name</label>
+                            <input type="text" class="form-control" autocomplete="off" name="Name" id="Name" placeholder="Customer Name..." />
+                        </div>
+                        <div class="form-group col-lg-6">
+                            <label class="margin-bottom-none">Customer Address</label>
+                            <input class="form-control" name="" id="CustomerAddress" placeholder="Customer Address..." />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="form-group col-lg-6">
+                            <label class="margin-bottom-none">Latitude</label>
+                            <input class="form-control" name="Latitude"  id="Latitude" placeholder="Latitude..." />
+                        </div>
+                        <div class="form-group col-lg-6">
+                            <label class="margin-bottom-none">Longitude</label>
+                            <input class="form-control" name="Longitude" id="Longitude" placeholder="Longitude..." />
+                        </div>
+                    </div>
+                </form>
+
+            </div>
+            <div class="modal-footer">
+                <a class="btn btn-danger" data-dismiss="modal"><i class="fa fa-remove"></i> Close</a>
+                <button class="btn btn-info" id="btnSaveCustomer"><i class="fa fa-save"></i> Add Customer</button>
+
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+<div class="modal fade" tabindex="-1" role="dialog" id="AddCustomerContacts">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title"></h4>
+            </div>
+            <div class="modal-body">
+                <form id="AddContactForm">
+                    <input type="text" class="form-control hidden" autocomplete="off" name="CustomerID" id="CustomerID" />
+                    <div class="row">
+                        <div class="form-group col-lg-6">
+                            <label class="margin-bottom-none">Contact Name</label>
+                            <input type="text" class="form-control" autocomplete="off" name="Name" id="Name" placeholder="Contact Name..." />
+                        </div>
+                        <div class="form-group col-lg-6">
+                            <label class="margin-bottom-none">Email Address</label>
+                            <input class="form-control" name="email" id="email" placeholder="Email Address..." />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="form-group col-lg-6">
+                            <label class="margin-bottom-none">Contact Number</label>
+                            <input class="form-control" name="Contact_Number" id="Contact_Number" placeholder="Contact Number..." />
+                        </div>
+                    </div>
+                </form>
+
+            </div>
+            <div class="modal-footer">
+                <a class="btn btn-danger" data-dismiss="modal"><i class="fa fa-remove"></i> Close</a>
+                <button class="btn btn-info" id="btnSaveContact"><i class="fa fa-save"></i> Add Customer</button>
+
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+@section scripts
+{
+    
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDQemK3rB1yB1hXRnmwCq7RJKlHweNdgek" type="text/javascript"></script>
+    <script src="~/Scripts/GeoComplete/geocomplete.js"></script>
+    <script src="~/Scripts/Customer/JsCustomer.js"></script>
+}

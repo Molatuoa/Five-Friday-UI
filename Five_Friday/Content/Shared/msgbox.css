@@ -1,0 +1,136 @@
+ 
+#mboxs {
+  z-index: 500000;
+  position: fixed; }
+#mboxs.default {
+  right: 10px; }
+#mboxs.tl {
+  left: 10px; }
+#mboxs.tr {
+  right: 10px; }
+#mboxs.bl {
+  left: 10px; }
+#mboxs.br {
+  right: 10px; }
+
+.mbox {
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  position: relative;
+  border-radius: 4px;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out; }
+.mbox.mbox-incoming {
+  opacity: 0;
+  filter: alpha(opacity=0); }
+.mbox.mbox-outgoing {
+  opacity: 0;
+  filter: alpha(opacity=0); }
+.mbox.mbox-small {
+  width: 200px;
+  padding: 5px;
+  margin: 5px; }
+.mbox.mbox-medium {
+  width: 250px;
+  padding: 10px;
+  margin: 10px; }
+.mbox.mbox-large {
+  width: 300px;
+  padding: 15px;
+  margin: 15px; }
+.mbox.mbox-default {
+  color: white;
+  background: #7f8c8d; }
+.mbox.mbox-error {
+  color: white;
+  background: #c0392b; }
+.mbox.mbox-notice {
+  color: white;
+  background: #2ecc71; }
+.mbox.mbox-warning {
+  color: white;
+  background: #f39c12; }
+.mbox .mbox-close {
+  cursor: pointer;
+  float: right;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: normal;
+  font-family: helvetica, verdana, sans-serif; }
+.mbox .mbox-title {
+  font-size: 18px;
+  line-height: 24px; }
+.mbox .mbox-message {
+  font-size: 14px;
+  line-height: 18px; }
+
+
+.msgbox{
+  position: fixed;
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 200px;
+
+  background: rgba(0, 0, 0, 0.70);
+
+  top: 0px;
+  left: 0px;
+
+  z-index: 1000001;
+}
+
+#msgbox-content{
+  padding-left: 20%;
+  padding-right: 20%;
+  position: absolute;
+  top: 35%;
+  min-height: 120px;
+  width: 100%;
+  background: rgba(249, 249, 249,1);
+  border-top: 0px solid #95a5ba;
+  border-bottom: 0px solid #bababa;
+}
+
+#mbox-footer button{
+  margin:10px 5px 10px 5px;
+  min-width: 90px;
+  font-weight: 400;
+}
+
+#mbox-controls {
+  margin-top:5px;
+  margin-bottom:0px;
+}
+
+#mbox-controls .checkbox {
+  display:inline-block;
+  margin-right: 20px;
+  font-weight: normal;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+#mbox-select{
+  font-size: 14px;
+}
+
+#mbox-input{
+}
+
+@media screen and (max-width: 480px) {
+  #msgbox-content{
+    padding-left: 10px;
+    padding-right: 8px;
+    min-width: 70px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #msgbox-content{
+    padding-left: 15px;
+    padding-right: 8px;
+    min-width: 70px;
+  }
+}

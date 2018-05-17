@@ -1,0 +1,58 @@
+﻿
+@using PagedList.Mvc;
+@using PagedList;
+@model IPagedList<Five_Friday.Models.Customer>
+@{
+    Layout = null;
+}
+@if (Model.Count == 0)
+{
+    <div class="text-muted text-center">
+        <h4>No results to display ...</h4>
+    </div>
+}
+else
+{
+    <div class="table-responsive">
+        <table id="example2" class="table table-bordered table-hover table-striped" role="grid" aria-describedby="example2_info">
+            <thead>
+                <tr role="row">
+                    <th class="sorting_asc">Name</th>
+                    <th class="sorting">Latitude</th>
+                    <th class="sorting">Longitude</th>
+                    <th class="sorting" style="width:20%;"></th>
+                </tr>
+            </thead>
+            <tbody>
+
+
+                @{
+                    foreach (var customer in Model)
+                    {
+                        <tr role="row">
+                            <td>@customer.Name</td>
+                            <td>@customer.Latitude</td>
+                            <td>@customer.Longitude</td>
+                            <td>
+                                <button class="btn btn-success btn-sm btn-link-contact" data-id="@customer.id">
+                                    <i class="fa fa-plus"></i> Add Contants
+                                </button>
+                                <button class="btn btn-info btn-sm btn-link-View" data-id="@customer.id">
+                                    <i class="fa fa-eye"></i> View Contants
+                                </button>
+                            </td>
+                        </tr>
+                                    }
+                }
+
+
+
+            </tbody>
+        </table>
+    </div>
+
+    <div id="bottomPager">
+        @Html.PagedListPager(Model, Page => "#" + Page, new PagedListRenderOptions() { Display = PagedListDisplayMode.Always, DisplayPageCountAndCurrentLocation = true, DisplayItemSliceAndTotal = true })
+    </div>
+                                    }
+

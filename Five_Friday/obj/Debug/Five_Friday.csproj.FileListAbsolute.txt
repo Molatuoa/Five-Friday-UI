@@ -1,0 +1,161 @@
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday\Five_Friday\obj\Debug\Five_Friday.csprojResolveAssemblyReference.cache
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\roslyn\csc.exe
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\roslyn\vbc.exe
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\roslyn\VBCSCompiler.exe
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Five_Friday.dll.config
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Five_Friday.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Five_Friday.pdb
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Antlr3.Runtime.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\EntityFramework.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\EntityFramework.SqlServer.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Newtonsoft.Json.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Owin.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.Helpers.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.Mvc.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.Optimization.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.Razor.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.WebPages.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.WebPages.Razor.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\WebGrease.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.Helpers.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.Mvc.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.Optimization.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.Razor.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.WebPages.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.WebPages.Razor.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Antlr3.Runtime.pdb
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Newtonsoft.Json.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\EntityFramework.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\EntityFramework.SqlServer.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\obj\Debug\Five_Friday.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\obj\Debug\Five_Friday.pdb
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\PagedList.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\PagedList.Mvc.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\PagedList.Mvc.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\RestSharp.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Net.Http.Formatting.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.Http.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.Http.WebHost.dll
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\PagedList.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\RestSharp.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Net.Http.Formatting.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.Http.xml
+C:\Users\cash_2\Documents\Visual Studio 2015\Projects\Five_Friday\Five_Friday\bin\System.Web.Http.WebHost.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\roslyn\csc.exe
+E:\Five Friday\Five_Friday\Five_Friday\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Five Friday\Five_Friday\Five_Friday\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Five Friday\Five_Friday\Five_Friday\bin\roslyn\System.Collections.Immutable.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\roslyn\System.Reflection.Metadata.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\roslyn\vbc.exe
+E:\Five Friday\Five_Friday\Five_Friday\bin\roslyn\VBCSCompiler.exe
+E:\Five Friday\Five_Friday\Five_Friday\bin\roslyn\VBCSCompiler.exe.config
+E:\Five Friday\Five_Friday\Five_Friday\bin\Five_Friday.dll.config
+E:\Five Friday\Five_Friday\Five_Friday\bin\Five_Friday.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Five_Friday.pdb
+E:\Five Friday\Five_Friday\Five_Friday\bin\Antlr3.Runtime.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\EntityFramework.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\EntityFramework.SqlServer.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Google.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Web.Infrastructure.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Newtonsoft.Json.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Owin.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Net.Http.Formatting.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.Helpers.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.Http.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.Http.WebHost.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.Mvc.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.Optimization.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.Razor.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.WebPages.Deployment.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.WebPages.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.WebPages.Razor.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\WebGrease.dll
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\PagedList.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\PagedList.Mvc.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\RestSharp.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Net.Http.Formatting.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.Http.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.Http.WebHost.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.Helpers.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.Mvc.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.Optimization.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.Razor.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.WebPages.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.WebPages.Deployment.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\System.Web.WebPages.Razor.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\Antlr3.Runtime.pdb
+E:\Five Friday\Five_Friday\Five_Friday\bin\Newtonsoft.Json.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\EntityFramework.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\EntityFramework.SqlServer.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Google.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Five Friday\Five_Friday\Five_Friday\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Five Friday\Five_Friday\Five_Friday\obj\Debug\Five_Friday.csprojResolveAssemblyReference.cache
+E:\Five Friday\Five_Friday\Five_Friday\obj\Debug\Five_Friday.csproj.CoreCompileInputs.cache
+E:\Five Friday\Five_Friday\Five_Friday\obj\Debug\Five_Friday.csproj.CopyComplete
+E:\Five Friday\Five_Friday\Five_Friday\obj\Debug\Five_Friday.dll
+E:\Five Friday\Five_Friday\Five_Friday\obj\Debug\Five_Friday.pdb
